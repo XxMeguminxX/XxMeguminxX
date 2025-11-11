@@ -26,21 +26,6 @@
 
 ---
 
-### ⚡ Fun Facts
-
-- I often code with anime soundtracks in the background.
-- Open to collaborating on cool Laravel projects!
-- My favorite anime character? Take a wild guess! 😉
-
----
-
-### 🌐 Connect with Me
-
-<!-- Add your social links here if you want! -->
-<!-- [Twitter](https://twitter.com/yourhandle) | [Discord](https://discordapp.com/users/yourid) | [Portfolio](https://yourportfolio.com) -->
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="120"/>
   <br>
