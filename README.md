@@ -24,7 +24,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="120"/>
-  <br>
   <b>Let's create something amazing together!</b>
 </div>
