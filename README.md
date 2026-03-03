@@ -13,9 +13,6 @@
 ### 🎓 About Me
 
 - 👋 I’m a dumb, but always curious and eager to learn.
-- 🖥️ Currently exploring and building with <b>Laravel</b>.
-- 🎵 Music keeps me inspired while I code.
-- 🌸 Anime fan — my coding journey is powered by epic soundtracks and vibrant worlds!
 
 ---
 
