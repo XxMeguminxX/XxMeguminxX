@@ -12,7 +12,7 @@
 
 ### 🎓 About Me
 
-- 👋 I’m a dumb, but always curious and eager to learn.
+- 👋 I’m a dumb, but want to learn.
 
 ---
 
