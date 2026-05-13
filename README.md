@@ -20,9 +20,3 @@
 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
 ![Learning](https://img.shields.io/badge/-Still%20Learning-blueviolet?style=flat-square)
-
----
-
-<div align="center">
-  <b>Let's create something amazing together!</b>
-</div>
