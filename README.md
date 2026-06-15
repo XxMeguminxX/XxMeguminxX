@@ -16,7 +16,7 @@
 
 ---
 
-### 💡 Tech Stack
+### 💡 Tech Stack 
 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
 ![Learning](https://img.shields.io/badge/-Still%20Learning-blueviolet?style=flat-square)
