@@ -9,14 +9,3 @@
 </div>
 
 --- 
-  
-### 🎓 About Me
-
- 👋 I’m a dumb, but want to learn.
-  
----
-
-### 💡 Tech Stack 
-
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
-![Learning](https://img.shields.io/badge/-Still%20Learning-blueviolet?style=flat-square)
